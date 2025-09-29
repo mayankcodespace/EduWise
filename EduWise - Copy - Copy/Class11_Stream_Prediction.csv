@@ -1,0 +1,1001 @@
+Student_ID,Interest_in_Maths,Interest_in_Science,Interest_in_SocialScience,Hobbies,Extracurricular_Activities,Stream_Chosen
+1,Medium,Low,Medium,Chess,Robotics Club,Commerce
+2,Low,High,High,Painting,Athletics,Arts
+3,Low,High,High,Music,Athletics,Arts
+4,Low,Low,Low,Music,Music,Science
+5,Medium,Medium,Medium,Chess,Music,Commerce
+6,Medium,High,High,Chess,Science Quiz,Arts
+7,Low,Low,High,Reading,Science Quiz,Arts
+8,Medium,High,Medium,Music,Drama,Commerce
+9,High,High,Medium,Coding,Sports,Science
+10,Medium,High,Low,Coding,Drama,Commerce
+11,Medium,Medium,Low,Coding,Music,Commerce
+12,Low,Medium,Low,Music,Robotics Club,Vocational
+13,Medium,High,Medium,Designing,Athletics,Commerce
+14,Medium,High,Low,Designing,Music,Commerce
+15,Low,Medium,Low,Music,Drama,Vocational
+16,High,High,High,Reading,None,Science
+17,Medium,Low,Medium,Chess,Drama,Commerce
+18,Medium,Low,High,Designing,Drama,Arts
+19,High,Low,Medium,Coding,Robotics Club,Commerce
+20,Low,Low,High,Reading,Music,Arts
+21,Medium,Medium,Low,Designing,Robotics Club,Commerce
+22,Low,Medium,High,Coding,Sports,Arts
+23,Low,Low,High,Music,Music,Arts
+24,Low,High,Medium,Sports,None,Vocational
+25,High,Low,Low,Chess,Music,Commerce
+26,Low,Medium,Medium,Sports,Sports,Commerce
+27,High,Medium,High,Painting,Music,Science
+28,Low,Low,Low,Sports,Athletics,Science
+29,Medium,Low,High,Writing,Music,Arts
+30,Low,Low,Low,Designing,Science Quiz,Vocational
+31,Low,Low,Low,Music,Athletics,Commerce
+32,Low,High,Low,Reading,Debate,Commerce
+33,Medium,Medium,High,Music,Sports,Arts
+34,Medium,Low,Low,Painting,Robotics Club,Commerce
+35,Low,Medium,High,Chess,Sports,Arts
+36,High,Low,Medium,Sports,Debate,Commerce
+37,Medium,Low,Low,Music,Debate,Commerce
+38,Medium,Medium,Low,Chess,Robotics Club,Commerce
+39,Medium,High,Low,Chess,Science Quiz,Commerce
+40,Low,Low,Medium,Painting,Drama,Commerce
+41,High,Low,Low,Reading,Debate,Commerce
+42,Medium,Medium,Low,Coding,None,Commerce
+43,Medium,Low,Low,Reading,Athletics,Commerce
+44,High,High,High,Sports,None,Science
+45,Low,Low,High,Writing,Music,Arts
+46,Medium,High,Low,Reading,Drama,Commerce
+47,Low,Medium,High,Chess,Robotics Club,Arts
+48,High,Medium,High,Painting,Science Quiz,Science
+49,Low,Medium,Medium,Music,None,Arts
+50,High,Low,Low,Painting,Robotics Club,Commerce
+51,Low,High,High,Coding,Sports,Arts
+52,Low,High,High,Sports,Robotics Club,Arts
+53,Low,Low,Low,Painting,Science Quiz,Arts
+54,Low,Medium,Medium,Designing,Athletics,Vocational
+55,Low,Low,Low,Designing,Sports,Vocational
+56,Low,High,Medium,Coding,Sports,Vocational
+57,High,Medium,Low,Painting,None,Science
+58,High,Medium,High,Designing,Debate,Science
+59,High,High,Medium,Music,Debate,Science
+60,High,Medium,Medium,Writing,Sports,Science
+61,Low,High,Medium,Coding,Sports,Arts
+62,Medium,Low,Low,Coding,Drama,Commerce
+63,Medium,Low,High,Sports,Athletics,Arts
+64,Medium,High,High,Writing,Science Quiz,Arts
+65,Medium,High,High,Sports,Robotics Club,Arts
+66,Low,Medium,Low,Sports,Athletics,Arts
+67,Low,High,Medium,Writing,Debate,Commerce
+68,High,High,Medium,Music,Science Quiz,Science
+69,High,High,High,Reading,None,Science
+70,Medium,Low,Medium,Coding,Robotics Club,Commerce
+71,High,Medium,Medium,Reading,Drama,Science
+72,Low,Medium,Medium,Sports,Sports,Arts
+73,Medium,High,Low,Chess,None,Commerce
+74,Low,High,Low,Reading,Debate,Vocational
+75,Low,Medium,Medium,Painting,None,Science
+76,High,Medium,High,Designing,Robotics Club,Science
+77,Medium,Low,Low,Sports,Drama,Commerce
+78,Low,High,High,Designing,None,Arts
+79,Medium,Low,Medium,Coding,None,Commerce
+80,Low,Low,High,Sports,Debate,Arts
+81,Low,Low,Low,Painting,Music,Science
+82,High,Medium,Medium,Painting,Sports,Science
+83,Low,Low,High,Coding,Debate,Arts
+84,Medium,Low,High,Chess,None,Arts
+85,Medium,Medium,Medium,Chess,Drama,Commerce
+86,High,High,Medium,Designing,None,Science
+87,Medium,High,High,Designing,None,Arts
+88,High,Medium,High,Writing,Sports,Science
+89,Medium,Medium,Low,Chess,Robotics Club,Commerce
+90,Low,Low,Medium,Sports,Robotics Club,Commerce
+91,Low,Medium,Low,Sports,Drama,Science
+92,Low,Medium,Low,Music,Science Quiz,Science
+93,Low,Low,Medium,Coding,Drama,Vocational
+94,High,Low,High,Writing,Sports,Arts
+95,Medium,Low,Low,Designing,Music,Commerce
+96,Medium,Medium,Low,Sports,Debate,Commerce
+97,Low,High,Medium,Writing,None,Arts
+98,High,Low,Medium,Painting,Music,Commerce
+99,Low,High,Medium,Sports,None,Commerce
+100,High,Medium,Low,Designing,Sports,Science
+101,Medium,Medium,Low,Painting,Music,Commerce
+102,Medium,Medium,High,Coding,Music,Arts
+103,Low,Low,Medium,Painting,Sports,Vocational
+104,High,High,Medium,Writing,Debate,Science
+105,High,Medium,Low,Sports,Robotics Club,Science
+106,Medium,High,Medium,Designing,None,Commerce
+107,Low,Low,Medium,Reading,Sports,Arts
+108,Low,High,Medium,Chess,Athletics,Vocational
+109,Medium,Medium,Medium,Music,None,Commerce
+110,High,Low,Low,Sports,Debate,Commerce
+111,High,High,Low,Sports,Sports,Science
+112,Medium,Medium,Medium,Painting,Science Quiz,Commerce
+113,Medium,High,Low,Writing,Robotics Club,Commerce
+114,High,Medium,High,Sports,Debate,Science
+115,Low,Low,Medium,Coding,Music,Arts
+116,Medium,Medium,Low,Chess,Music,Commerce
+117,Medium,Medium,High,Designing,Science Quiz,Arts
+118,Medium,Medium,Medium,Chess,Music,Commerce
+119,Low,Low,Medium,Writing,Athletics,Commerce
+120,Low,Medium,Low,Writing,Robotics Club,Science
+121,Low,Medium,High,Coding,Athletics,Arts
+122,High,Medium,High,Coding,Drama,Science
+123,Medium,High,High,Sports,Sports,Arts
+124,Medium,Medium,Medium,Designing,Sports,Commerce
+125,Low,High,Medium,Sports,Sports,Vocational
+126,High,Low,Medium,Writing,Robotics Club,Commerce
+127,Low,High,Low,Reading,Drama,Arts
+128,Low,Low,Medium,Coding,Sports,Science
+129,Medium,Low,Low,Music,Debate,Commerce
+130,Medium,Low,High,Coding,Robotics Club,Arts
+131,Medium,Medium,Medium,Chess,None,Commerce
+132,Medium,Medium,Low,Sports,None,Commerce
+133,Medium,Low,High,Sports,Athletics,Arts
+134,High,High,Low,Coding,Sports,Science
+135,Medium,Medium,Medium,Designing,Debate,Commerce
+136,High,High,Low,Coding,Science Quiz,Science
+137,Low,High,High,Chess,Robotics Club,Arts
+138,High,Low,Medium,Reading,Athletics,Commerce
+139,High,Low,Low,Painting,Sports,Commerce
+140,Medium,High,Low,Music,Drama,Commerce
+141,Low,Low,Low,Designing,Robotics Club,Vocational
+142,Low,Medium,Low,Coding,Athletics,Commerce
+143,Low,Low,Low,Writing,Music,Vocational
+144,Medium,Medium,Low,Reading,Drama,Commerce
+145,Medium,Medium,Medium,Designing,Drama,Commerce
+146,Low,Medium,Medium,Writing,Drama,Vocational
+147,High,Low,High,Designing,Science Quiz,Commerce
+148,Medium,High,Medium,Painting,Sports,Commerce
+149,Medium,Low,Low,Sports,Sports,Commerce
+150,Medium,High,Medium,Reading,Drama,Commerce
+151,High,Low,High,Chess,Debate,Vocational
+152,High,Medium,Low,Reading,Science Quiz,Science
+153,Medium,Low,High,Painting,None,Arts
+154,High,Medium,Medium,Sports,Science Quiz,Science
+155,Medium,Low,Medium,Chess,Drama,Commerce
+156,Low,Medium,High,Painting,Athletics,Arts
+157,Low,Low,High,Music,Music,Arts
+158,Low,Medium,Medium,Coding,None,Science
+159,Medium,Low,Low,Coding,Athletics,Commerce
+160,Medium,Low,High,Painting,Sports,Arts
+161,High,Low,Medium,Painting,Science Quiz,Commerce
+162,High,Medium,High,Coding,Sports,Science
+163,High,High,Medium,Chess,Sports,Science
+164,Medium,Low,Medium,Chess,Debate,Commerce
+165,High,Medium,Medium,Painting,Robotics Club,Science
+166,Medium,High,Medium,Writing,Sports,Commerce
+167,High,High,Low,Writing,Debate,Science
+168,High,Low,Medium,Music,Debate,Commerce
+169,Medium,High,Medium,Coding,Debate,Commerce
+170,High,Low,Medium,Painting,Science Quiz,Commerce
+171,Medium,Low,High,Chess,Debate,Arts
+172,Medium,Low,High,Coding,None,Arts
+173,High,Medium,Low,Reading,Debate,Science
+174,High,High,Low,Writing,Debate,Science
+175,Medium,High,Low,Sports,Debate,Commerce
+176,Medium,High,High,Chess,Sports,Arts
+177,Low,Medium,High,Coding,Robotics Club,Arts
+178,Medium,High,High,Designing,Athletics,Arts
+179,Medium,High,Low,Designing,Music,Commerce
+180,Medium,Medium,Medium,Sports,Sports,Commerce
+181,Medium,Low,High,Painting,None,Arts
+182,High,Low,High,Reading,Debate,Vocational
+183,Low,High,Low,Painting,Drama,Science
+184,Medium,Medium,Medium,Painting,Athletics,Commerce
+185,Medium,High,Low,Coding,None,Commerce
+186,Medium,Medium,High,Chess,Drama,Arts
+187,Medium,Medium,High,Music,Athletics,Arts
+188,Low,Medium,Medium,Writing,Debate,Arts
+189,Medium,High,High,Music,None,Arts
+190,Medium,Low,High,Music,Sports,Arts
+191,High,High,Low,Painting,Drama,Science
+192,Low,High,High,Music,Drama,Arts
+193,High,Medium,Medium,Sports,Robotics Club,Science
+194,Medium,Low,Medium,Painting,Robotics Club,Commerce
+195,High,Medium,Low,Writing,None,Science
+196,Medium,High,Medium,Reading,None,Commerce
+197,Medium,Low,Low,Chess,Debate,Commerce
+198,High,Medium,Low,Designing,Athletics,Science
+199,Medium,Low,High,Chess,None,Arts
+200,High,Medium,Medium,Reading,Debate,Science
+201,High,Low,High,Writing,None,Commerce
+202,Medium,High,Medium,Chess,None,Commerce
+203,Low,Medium,High,Reading,Music,Arts
+204,Low,Low,Low,Reading,Drama,Arts
+205,Medium,High,Low,Chess,Drama,Commerce
+206,Low,Medium,Medium,Coding,Athletics,Arts
+207,Low,Low,Low,Painting,Drama,Arts
+208,Low,Low,High,Reading,None,Arts
+209,Medium,Medium,Medium,Reading,Athletics,Commerce
+210,High,High,High,Coding,Sports,Science
+211,Medium,Medium,Medium,Reading,Music,Commerce
+212,Low,High,High,Music,Athletics,Arts
+213,Low,Medium,Low,Chess,Music,Commerce
+214,Low,Medium,High,Reading,Science Quiz,Arts
+215,Medium,High,High,Sports,Music,Arts
+216,High,Medium,High,Sports,Sports,Science
+217,Low,Medium,Medium,Music,Science Quiz,Commerce
+218,Low,Low,Low,Writing,Drama,Commerce
+219,High,Medium,Low,Reading,Music,Science
+220,Medium,Low,Low,Designing,Drama,Commerce
+221,Low,Medium,High,Reading,Debate,Arts
+222,Low,Low,High,Coding,Robotics Club,Arts
+223,Medium,Medium,Medium,Writing,Sports,Commerce
+224,High,Low,Low,Designing,Athletics,Commerce
+225,Low,Medium,Low,Designing,Athletics,Commerce
+226,High,Low,Medium,Painting,Science Quiz,Commerce
+227,Low,Medium,Low,Designing,Robotics Club,Arts
+228,High,Medium,Medium,Coding,Robotics Club,Science
+229,High,Low,Medium,Reading,Drama,Commerce
+230,Low,Medium,High,Reading,None,Arts
+231,High,Low,Medium,Sports,Athletics,Commerce
+232,High,Medium,Low,Writing,Sports,Science
+233,Medium,Medium,Medium,Sports,Robotics Club,Commerce
+234,Medium,High,Medium,Painting,Science Quiz,Commerce
+235,High,Low,High,Chess,Music,Commerce
+236,Low,Low,High,Painting,Athletics,Arts
+237,High,Medium,High,Painting,Music,Science
+238,Low,High,Low,Reading,Science Quiz,Science
+239,High,Medium,High,Painting,Robotics Club,Science
+240,Medium,High,Low,Designing,Drama,Commerce
+241,Low,Low,High,Music,Robotics Club,Arts
+242,Low,High,Medium,Designing,Drama,Arts
+243,Medium,High,High,Reading,Drama,Arts
+244,Medium,Medium,Low,Painting,Science Quiz,Commerce
+245,Medium,Low,Medium,Coding,None,Commerce
+246,Low,Low,High,Designing,Debate,Arts
+247,High,Medium,Medium,Chess,None,Science
+248,Medium,Low,High,Chess,None,Arts
+249,Low,Low,Medium,Designing,Robotics Club,Arts
+250,High,Medium,High,Coding,Science Quiz,Science
+251,Low,Low,High,Reading,Sports,Arts
+252,High,Low,High,Chess,Robotics Club,Science
+253,High,Low,Medium,Coding,Drama,Commerce
+254,High,High,Low,Reading,Music,Science
+255,Medium,Medium,Low,Painting,None,Commerce
+256,Low,Low,Low,Sports,Athletics,Vocational
+257,Low,Medium,Medium,Writing,Science Quiz,Science
+258,Low,High,Medium,Chess,Robotics Club,Arts
+259,Medium,High,Low,Writing,Athletics,Commerce
+260,Low,Low,Medium,Painting,Athletics,Science
+261,High,High,Medium,Coding,Debate,Science
+262,High,High,High,Sports,Athletics,Science
+263,Low,Medium,High,Reading,Sports,Arts
+264,Low,High,Low,Painting,Debate,Arts
+265,Medium,Low,High,Painting,Music,Arts
+266,Low,Low,Medium,Reading,Athletics,Vocational
+267,Low,Medium,High,Painting,Robotics Club,Arts
+268,Medium,High,High,Coding,Robotics Club,Arts
+269,Medium,Medium,Medium,Writing,Drama,Commerce
+270,Medium,Low,High,Reading,Science Quiz,Arts
+271,High,High,High,Reading,Robotics Club,Science
+272,High,Low,High,Chess,Robotics Club,Science
+273,Medium,Low,High,Chess,Drama,Arts
+274,High,Medium,High,Music,Science Quiz,Science
+275,Medium,Medium,Low,Painting,Athletics,Commerce
+276,Medium,Low,High,Painting,None,Arts
+277,Medium,Low,Low,Music,None,Commerce
+278,Medium,Low,High,Writing,Drama,Arts
+279,High,Low,Medium,Chess,Drama,Commerce
+280,High,Low,High,Chess,Music,Arts
+281,Low,High,High,Music,Science Quiz,Arts
+282,High,Medium,Medium,Coding,Debate,Science
+283,Medium,Medium,Low,Chess,Debate,Commerce
+284,Low,High,Medium,Reading,Debate,Science
+285,High,Low,Low,Painting,Debate,Commerce
+286,High,Medium,Low,Writing,Robotics Club,Science
+287,Low,High,Medium,Music,None,Commerce
+288,Medium,Low,High,Reading,Sports,Arts
+289,High,Medium,Medium,Writing,Athletics,Science
+290,High,Low,High,Music,Debate,Science
+291,Low,Low,Low,Writing,Robotics Club,Science
+292,Medium,Low,High,Sports,Debate,Arts
+293,High,High,Low,Sports,Athletics,Science
+294,Low,Medium,Low,Sports,Robotics Club,Science
+295,High,Low,Medium,Coding,Music,Commerce
+296,High,Medium,High,Painting,Sports,Science
+297,High,High,Low,Chess,Drama,Science
+298,Low,Low,High,Writing,Science Quiz,Arts
+299,Low,Medium,Low,Coding,Science Quiz,Science
+300,Medium,High,High,Reading,Drama,Arts
+301,Low,Low,Medium,Music,Athletics,Vocational
+302,Low,Medium,High,Coding,Science Quiz,Arts
+303,Medium,High,Low,Painting,Music,Commerce
+304,Low,Medium,Medium,Coding,Science Quiz,Vocational
+305,Low,High,Low,Designing,Drama,Vocational
+306,High,Medium,Low,Reading,Robotics Club,Science
+307,Low,Medium,Medium,Coding,Robotics Club,Vocational
+308,High,High,Low,Chess,None,Science
+309,High,Medium,Low,Reading,Music,Science
+310,High,Low,Low,Sports,None,Commerce
+311,Low,Low,Low,Writing,Sports,Vocational
+312,Medium,Medium,High,Writing,Athletics,Arts
+313,Medium,Low,Low,Sports,Athletics,Commerce
+314,Low,Low,High,Designing,Sports,Arts
+315,Medium,Medium,Low,Painting,Sports,Commerce
+316,High,Low,High,Chess,None,Arts
+317,Low,High,High,Reading,Science Quiz,Arts
+318,Low,Medium,Low,Writing,Drama,Science
+319,High,Low,Medium,Chess,Athletics,Commerce
+320,High,Medium,Medium,Chess,Science Quiz,Science
+321,Medium,Medium,Low,Writing,Athletics,Commerce
+322,High,Low,High,Sports,Drama,Arts
+323,Low,Low,Low,Music,Athletics,Vocational
+324,Medium,Medium,Low,Writing,Robotics Club,Commerce
+325,Low,High,High,Designing,Sports,Arts
+326,High,Medium,Low,Designing,Athletics,Science
+327,High,Low,High,Music,Sports,Commerce
+328,High,High,Medium,Chess,Science Quiz,Science
+329,Medium,Medium,High,Designing,None,Arts
+330,Medium,High,Low,Reading,Robotics Club,Commerce
+331,Low,High,High,Writing,None,Arts
+332,Low,High,Medium,Coding,Music,Commerce
+333,Low,Low,Medium,Writing,Robotics Club,Arts
+334,High,High,High,Sports,Robotics Club,Science
+335,Medium,Low,High,Reading,Sports,Arts
+336,High,High,Low,Chess,Science Quiz,Science
+337,Low,High,Medium,Writing,Music,Vocational
+338,Medium,Low,High,Writing,Robotics Club,Arts
+339,Low,Medium,Low,Sports,Debate,Science
+340,Medium,Medium,High,Reading,Debate,Arts
+341,High,Medium,Medium,Designing,Drama,Science
+342,Low,Low,Low,Painting,Debate,Science
+343,High,Low,High,Music,Drama,Science
+344,High,Medium,Low,Painting,Athletics,Science
+345,Low,Low,Medium,Reading,None,Science
+346,High,Low,Medium,Painting,Robotics Club,Commerce
+347,High,Low,Low,Painting,Robotics Club,Commerce
+348,Low,High,Medium,Painting,Drama,Vocational
+349,High,Medium,Low,Music,Drama,Science
+350,Medium,Low,Low,Writing,Drama,Commerce
+351,High,Medium,Medium,Painting,None,Science
+352,High,Medium,Medium,Chess,Drama,Science
+353,High,High,High,Chess,Music,Science
+354,Medium,Low,High,Reading,Music,Arts
+355,Medium,Medium,Low,Designing,Drama,Commerce
+356,Low,Medium,High,Designing,Music,Arts
+357,Low,Low,Medium,Chess,Drama,Vocational
+358,Medium,Low,Low,Writing,Debate,Commerce
+359,Low,Low,Low,Designing,None,Commerce
+360,High,Medium,Medium,Music,Debate,Science
+361,Medium,Medium,High,Painting,Science Quiz,Arts
+362,High,Medium,Low,Designing,Science Quiz,Science
+363,High,Low,Low,Chess,Drama,Commerce
+364,Low,Low,Medium,Writing,Athletics,Vocational
+365,Low,Medium,Medium,Chess,Robotics Club,Science
+366,High,Medium,Low,Chess,Debate,Science
+367,Low,High,Medium,Reading,Drama,Science
+368,Medium,Low,Low,Writing,Drama,Commerce
+369,Low,Medium,Low,Painting,Athletics,Arts
+370,Low,Low,Low,Designing,Science Quiz,Commerce
+371,High,High,Low,Painting,None,Science
+372,High,High,High,Writing,Sports,Science
+373,Medium,High,Medium,Reading,Science Quiz,Commerce
+374,High,High,Low,Painting,Debate,Science
+375,Low,Medium,Low,Coding,None,Vocational
+376,High,Low,Low,Reading,Athletics,Commerce
+377,Medium,Medium,Medium,Coding,Athletics,Commerce
+378,Low,Medium,High,Painting,Robotics Club,Arts
+379,Medium,High,Medium,Coding,Sports,Commerce
+380,Low,Medium,High,Painting,None,Arts
+381,Low,Medium,High,Chess,Science Quiz,Arts
+382,Medium,High,Low,Chess,Debate,Commerce
+383,Medium,Low,High,Writing,Music,Arts
+384,High,Medium,Low,Sports,None,Science
+385,High,Medium,Low,Reading,Robotics Club,Science
+386,High,High,Medium,Music,Athletics,Science
+387,Low,Low,Medium,Designing,Athletics,Science
+388,High,Low,Medium,Chess,None,Commerce
+389,High,High,Medium,Coding,None,Science
+390,Low,High,Low,Sports,Drama,Vocational
+391,High,Medium,Medium,Sports,None,Science
+392,Low,Low,Low,Painting,Science Quiz,Science
+393,High,High,Medium,Writing,Science Quiz,Science
+394,Medium,Medium,High,Painting,Drama,Arts
+395,High,High,High,Painting,Drama,Science
+396,Medium,High,Low,Designing,Sports,Commerce
+397,Medium,High,High,Designing,Drama,Arts
+398,High,Medium,Medium,Reading,Drama,Science
+399,Low,High,Medium,Music,Sports,Arts
+400,Low,Medium,Low,Reading,Debate,Commerce
+401,Low,Medium,Low,Coding,Athletics,Vocational
+402,High,High,Medium,Reading,None,Science
+403,High,High,Medium,Coding,Robotics Club,Science
+404,Low,Medium,Low,Reading,Robotics Club,Science
+405,High,Medium,Low,Painting,Sports,Science
+406,Low,Medium,Medium,Chess,Science Quiz,Science
+407,High,Medium,Medium,Coding,Drama,Science
+408,Low,Low,High,Designing,Athletics,Arts
+409,Medium,Low,Low,Painting,Debate,Commerce
+410,Low,Medium,Low,Painting,Music,Commerce
+411,Medium,Low,High,Chess,Drama,Arts
+412,High,Low,High,Sports,Drama,Arts
+413,Medium,Medium,Medium,Designing,Music,Commerce
+414,Low,Low,Medium,Reading,Science Quiz,Arts
+415,Medium,Low,Low,Coding,Athletics,Commerce
+416,Low,High,Medium,Coding,None,Science
+417,Low,High,High,Music,Debate,Arts
+418,Low,High,Low,Writing,Drama,Arts
+419,Low,Low,High,Writing,Debate,Arts
+420,Medium,Low,Low,Writing,Athletics,Commerce
+421,Medium,Low,Medium,Writing,Debate,Commerce
+422,Low,Medium,Medium,Painting,Robotics Club,Commerce
+423,Medium,Medium,Medium,Painting,Robotics Club,Commerce
+424,Low,Medium,Medium,Chess,Sports,Arts
+425,High,Medium,High,Writing,None,Science
+426,High,High,High,Chess,None,Science
+427,Medium,High,High,Designing,Drama,Arts
+428,High,High,Medium,Coding,Sports,Science
+429,High,Low,Low,Reading,Sports,Commerce
+430,Low,Medium,High,Chess,Science Quiz,Arts
+431,High,High,Medium,Writing,Robotics Club,Science
+432,High,High,Medium,Chess,Drama,Science
+433,Low,Medium,Low,Coding,Sports,Vocational
+434,Low,Low,High,Designing,Science Quiz,Arts
+435,Medium,Low,Medium,Painting,Sports,Commerce
+436,Medium,High,Medium,Sports,Sports,Commerce
+437,High,Medium,Medium,Music,Robotics Club,Science
+438,High,Low,Medium,Designing,None,Commerce
+439,High,Low,Low,Reading,Athletics,Commerce
+440,Low,High,Medium,Reading,Drama,Vocational
+441,Medium,Low,High,Sports,Debate,Arts
+442,Low,Low,High,Coding,Music,Arts
+443,Low,Medium,Low,Coding,Drama,Science
+444,Low,High,Medium,Painting,Music,Commerce
+445,Low,High,Medium,Designing,Music,Commerce
+446,Medium,High,Low,Reading,Athletics,Commerce
+447,Low,Low,Low,Chess,Drama,Science
+448,Low,Low,Low,Chess,Science Quiz,Arts
+449,Medium,Medium,High,Coding,Sports,Arts
+450,Low,Low,High,Chess,Drama,Arts
+451,Medium,Medium,Medium,Coding,Robotics Club,Commerce
+452,Low,High,Medium,Sports,Science Quiz,Vocational
+453,High,Medium,High,Coding,Sports,Science
+454,High,High,Low,Sports,Sports,Science
+455,Medium,Low,High,Designing,None,Arts
+456,Medium,Low,Low,Designing,Robotics Club,Commerce
+457,Low,Medium,Medium,Painting,Science Quiz,Commerce
+458,Medium,High,Medium,Reading,Drama,Commerce
+459,Medium,High,Medium,Painting,Athletics,Commerce
+460,Medium,Medium,Medium,Coding,Robotics Club,Commerce
+461,Medium,Low,Low,Sports,Music,Commerce
+462,Medium,Medium,Low,Reading,Drama,Commerce
+463,High,High,Medium,Reading,Music,Science
+464,High,Low,Low,Reading,Drama,Commerce
+465,Low,High,Low,Reading,Science Quiz,Vocational
+466,High,Low,Low,Music,Music,Commerce
+467,Low,Low,High,Sports,None,Arts
+468,High,Medium,Medium,Sports,Debate,Science
+469,Low,High,High,Painting,None,Arts
+470,Low,Low,Medium,Designing,None,Vocational
+471,Medium,Low,High,Writing,Music,Arts
+472,High,High,Low,Reading,Robotics Club,Science
+473,Medium,Low,High,Coding,Drama,Arts
+474,Medium,Low,Medium,Writing,Science Quiz,Commerce
+475,High,High,High,Writing,Athletics,Science
+476,Medium,Low,Low,Writing,Science Quiz,Commerce
+477,Low,Medium,Low,Designing,Science Quiz,Science
+478,Medium,High,Medium,Reading,Robotics Club,Commerce
+479,High,High,High,Coding,Debate,Science
+480,Low,High,Medium,Music,Science Quiz,Vocational
+481,Medium,Low,Medium,Sports,Robotics Club,Commerce
+482,Low,Medium,High,Painting,Athletics,Arts
+483,Low,Medium,Medium,Sports,Science Quiz,Science
+484,Medium,Low,High,Painting,Drama,Arts
+485,Medium,Medium,Medium,Reading,Sports,Commerce
+486,High,Low,Low,Painting,None,Commerce
+487,High,Medium,High,Music,Science Quiz,Science
+488,High,Low,Low,Coding,Athletics,Commerce
+489,Low,Medium,Low,Painting,Music,Arts
+490,High,High,Low,Chess,Music,Science
+491,Medium,Medium,High,Chess,Athletics,Arts
+492,High,High,High,Chess,Robotics Club,Science
+493,High,Medium,Low,Painting,Music,Science
+494,Medium,High,Low,Coding,Drama,Commerce
+495,Low,Medium,Low,Painting,Sports,Arts
+496,High,Low,High,Designing,Debate,Commerce
+497,High,Medium,High,Music,Science Quiz,Science
+498,Medium,Medium,Low,Chess,Debate,Commerce
+499,Low,Medium,Low,Sports,Athletics,Commerce
+500,Low,High,Low,Painting,Drama,Arts
+501,High,Low,Medium,Sports,Robotics Club,Commerce
+502,High,High,Low,Reading,Drama,Science
+503,High,Medium,Medium,Writing,Sports,Science
+504,Low,Low,Low,Reading,Debate,Vocational
+505,High,Medium,High,Coding,None,Science
+506,Medium,High,High,Sports,Robotics Club,Arts
+507,Low,High,Medium,Music,Robotics Club,Arts
+508,High,High,Low,Designing,Sports,Science
+509,Low,Low,High,Painting,None,Arts
+510,High,Medium,Medium,Writing,Sports,Science
+511,Medium,Medium,High,Painting,Music,Arts
+512,Low,High,Medium,Chess,Athletics,Science
+513,Medium,Low,Low,Coding,Drama,Commerce
+514,High,Low,Low,Painting,None,Commerce
+515,Medium,Medium,High,Designing,Robotics Club,Arts
+516,Low,High,Low,Painting,Sports,Commerce
+517,High,Medium,Low,Designing,Sports,Science
+518,Low,High,Medium,Music,None,Science
+519,Medium,High,High,Designing,Drama,Arts
+520,Medium,High,Medium,Sports,Sports,Commerce
+521,Medium,Low,High,Sports,Drama,Arts
+522,Medium,Medium,Medium,Music,None,Commerce
+523,Low,High,High,Sports,None,Arts
+524,Medium,High,Medium,Chess,Debate,Commerce
+525,Medium,High,Medium,Chess,Robotics Club,Commerce
+526,Medium,Low,High,Designing,Robotics Club,Arts
+527,High,High,Low,Painting,Music,Science
+528,Low,High,Medium,Writing,Debate,Vocational
+529,Medium,Low,Medium,Sports,Music,Commerce
+530,Medium,Low,Low,Coding,Music,Commerce
+531,Medium,Low,Medium,Music,Science Quiz,Commerce
+532,Low,High,Medium,Reading,Drama,Arts
+533,Low,High,High,Writing,Science Quiz,Arts
+534,Medium,Medium,High,Writing,Robotics Club,Arts
+535,Low,Medium,Low,Painting,Drama,Vocational
+536,Medium,Medium,Low,Designing,Science Quiz,Commerce
+537,Low,Low,Medium,Reading,Music,Vocational
+538,High,Medium,Medium,Chess,Athletics,Science
+539,High,Medium,Medium,Writing,Music,Science
+540,High,Medium,Low,Coding,Sports,Science
+541,Low,Low,Medium,Designing,Robotics Club,Vocational
+542,Medium,Low,High,Painting,Debate,Arts
+543,High,Medium,Low,Writing,Music,Science
+544,High,Low,High,Writing,Drama,Arts
+545,Medium,Medium,Medium,Coding,Sports,Commerce
+546,High,Medium,High,Painting,None,Science
+547,High,Medium,Low,Painting,Athletics,Science
+548,Medium,Low,High,Writing,None,Arts
+549,Medium,Low,Low,Painting,Debate,Commerce
+550,High,Medium,Low,Music,Debate,Science
+551,Medium,High,Low,Sports,Athletics,Commerce
+552,Low,High,High,Coding,Debate,Arts
+553,High,Low,High,Designing,Science Quiz,Arts
+554,Medium,High,Medium,Writing,Debate,Commerce
+555,High,High,Medium,Music,Music,Science
+556,Low,Low,High,Reading,Drama,Arts
+557,Medium,High,High,Music,Drama,Arts
+558,High,High,High,Sports,Robotics Club,Science
+559,High,Medium,Low,Reading,Athletics,Science
+560,High,High,Medium,Writing,None,Science
+561,Medium,High,Low,Coding,Athletics,Commerce
+562,High,Medium,Low,Painting,Science Quiz,Science
+563,Low,Medium,High,Chess,Athletics,Arts
+564,Low,Medium,Low,Writing,None,Vocational
+565,Medium,Low,High,Writing,Athletics,Arts
+566,Low,High,High,Chess,Music,Arts
+567,Low,Low,Low,Painting,Robotics Club,Commerce
+568,Low,Low,Low,Sports,None,Science
+569,High,Low,Low,Painting,Debate,Commerce
+570,Low,High,Medium,Writing,Athletics,Science
+571,Low,Medium,Low,Designing,Science Quiz,Arts
+572,Low,High,Medium,Painting,Robotics Club,Arts
+573,Low,Medium,High,Music,Music,Arts
+574,Medium,High,Medium,Music,None,Commerce
+575,Medium,High,High,Painting,Sports,Arts
+576,Low,High,High,Painting,Music,Arts
+577,Medium,High,Low,Chess,Music,Commerce
+578,High,Medium,Medium,Sports,Sports,Science
+579,High,Low,Medium,Music,Drama,Commerce
+580,Medium,Medium,Medium,Music,Science Quiz,Commerce
+581,Low,Medium,High,Music,None,Arts
+582,High,Medium,Low,Painting,Drama,Science
+583,Low,Low,Low,Coding,Music,Commerce
+584,High,High,Medium,Writing,Sports,Science
+585,Low,Low,Low,Coding,Robotics Club,Arts
+586,Low,High,Low,Writing,Music,Arts
+587,High,Medium,Low,Music,Athletics,Science
+588,Medium,Low,High,Sports,Debate,Arts
+589,High,High,Medium,Painting,Drama,Science
+590,Medium,Low,High,Music,Athletics,Arts
+591,High,High,Low,Coding,Debate,Science
+592,Medium,High,Low,Chess,Debate,Commerce
+593,Low,High,High,Sports,Debate,Arts
+594,Low,Medium,High,Sports,Debate,Arts
+595,Low,Medium,Low,Chess,Sports,Vocational
+596,High,Low,High,Designing,Drama,Arts
+597,Medium,High,Low,Reading,Athletics,Commerce
+598,High,Low,Low,Painting,Athletics,Commerce
+599,Low,High,High,Writing,Science Quiz,Arts
+600,High,Medium,High,Music,None,Science
+601,Medium,Medium,Low,Sports,Robotics Club,Commerce
+602,Medium,Low,Medium,Coding,Athletics,Commerce
+603,High,High,High,Writing,Science Quiz,Science
+604,Medium,High,High,Designing,Music,Arts
+605,High,Medium,Low,Painting,Robotics Club,Science
+606,Low,Low,High,Reading,Drama,Arts
+607,High,Low,High,Music,None,Vocational
+608,Low,High,Low,Chess,Music,Science
+609,Low,Low,High,Music,Athletics,Arts
+610,Low,Low,Low,Writing,Music,Arts
+611,Medium,Medium,Low,Writing,Sports,Commerce
+612,High,High,High,Painting,Science Quiz,Science
+613,Low,High,Low,Coding,None,Arts
+614,Low,High,High,Music,Athletics,Arts
+615,Medium,Low,Low,Chess,Music,Commerce
+616,High,Low,High,Reading,Science Quiz,Commerce
+617,Low,Medium,High,Sports,Science Quiz,Arts
+618,High,Low,High,Sports,Music,Arts
+619,Medium,Medium,High,Writing,Sports,Arts
+620,Low,Medium,Low,Coding,Drama,Vocational
+621,Low,Medium,Low,Designing,Robotics Club,Vocational
+622,Low,Medium,Low,Designing,Music,Commerce
+623,High,High,Low,Writing,Science Quiz,Science
+624,Low,Low,Medium,Painting,Robotics Club,Arts
+625,Low,High,High,Writing,Drama,Arts
+626,High,Low,Low,Music,Sports,Commerce
+627,High,Low,Medium,Writing,Athletics,Commerce
+628,Low,Low,Low,Designing,Debate,Arts
+629,High,High,Low,Painting,Science Quiz,Science
+630,Medium,Low,High,Music,Robotics Club,Arts
+631,Medium,Medium,High,Coding,None,Arts
+632,Low,High,High,Music,Science Quiz,Arts
+633,Low,Medium,High,Designing,Athletics,Arts
+634,Medium,High,Low,Painting,Science Quiz,Commerce
+635,Medium,Low,High,Painting,Athletics,Arts
+636,High,High,High,Designing,Robotics Club,Science
+637,High,Low,High,Chess,None,Arts
+638,Medium,Low,High,Writing,Science Quiz,Arts
+639,Low,Low,High,Designing,Debate,Arts
+640,Low,High,Low,Sports,Athletics,Vocational
+641,High,High,Low,Writing,None,Science
+642,Low,Low,Low,Writing,Athletics,Vocational
+643,Medium,Medium,High,Chess,Robotics Club,Arts
+644,Medium,Low,Medium,Sports,Drama,Commerce
+645,Medium,Medium,Medium,Coding,Music,Commerce
+646,Low,Medium,Medium,Chess,Music,Vocational
+647,Medium,Medium,Medium,Music,Debate,Commerce
+648,High,High,High,Writing,None,Science
+649,Medium,Low,Medium,Music,Athletics,Commerce
+650,High,High,Medium,Writing,Drama,Science
+651,Low,Low,Low,Music,Athletics,Science
+652,High,High,Medium,Reading,None,Science
+653,Low,Medium,Low,Designing,Athletics,Commerce
+654,Low,High,Low,Painting,Athletics,Commerce
+655,Low,Medium,Low,Sports,Drama,Vocational
+656,Low,Low,Low,Designing,Athletics,Commerce
+657,High,High,Medium,Coding,Sports,Science
+658,Medium,Low,Medium,Sports,None,Commerce
+659,Low,Medium,Low,Reading,Science Quiz,Science
+660,High,Low,Low,Writing,Robotics Club,Commerce
+661,Medium,High,Medium,Music,Robotics Club,Commerce
+662,Medium,Low,Medium,Coding,Music,Commerce
+663,High,Low,Medium,Designing,None,Commerce
+664,Medium,Low,Medium,Painting,Robotics Club,Commerce
+665,High,High,High,Chess,Athletics,Science
+666,Low,Low,Medium,Designing,Science Quiz,Vocational
+667,High,Medium,High,Coding,Music,Science
+668,High,High,Medium,Sports,Music,Science
+669,High,High,Low,Sports,Sports,Science
+670,Medium,High,Medium,Writing,Science Quiz,Commerce
+671,Medium,Medium,High,Music,Athletics,Arts
+672,High,High,Low,Music,None,Science
+673,Medium,High,High,Designing,Science Quiz,Arts
+674,Low,Low,Medium,Reading,Robotics Club,Vocational
+675,Medium,High,High,Sports,Music,Arts
+676,Medium,Low,Low,Coding,Sports,Commerce
+677,Medium,Low,High,Sports,Sports,Arts
+678,Medium,Medium,Medium,Chess,Science Quiz,Commerce
+679,Low,High,Low,Designing,Athletics,Science
+680,Low,High,High,Designing,Athletics,Arts
+681,Medium,Low,Medium,Writing,None,Commerce
+682,Medium,High,Low,Painting,Athletics,Commerce
+683,Low,High,Medium,Designing,Music,Science
+684,Low,High,Medium,Designing,Robotics Club,Arts
+685,Low,Low,Medium,Writing,Sports,Vocational
+686,High,High,High,Painting,Music,Science
+687,Medium,High,Medium,Chess,Athletics,Commerce
+688,Low,Low,Medium,Designing,Drama,Vocational
+689,Low,Low,Medium,Writing,Athletics,Commerce
+690,Low,Low,High,Painting,None,Arts
+691,Medium,High,Low,Sports,Sports,Commerce
+692,High,High,High,Reading,Athletics,Science
+693,Low,High,Low,Painting,None,Arts
+694,High,High,High,Painting,Sports,Science
+695,High,Medium,Low,Reading,Science Quiz,Science
+696,High,Low,Medium,Coding,Drama,Commerce
+697,Low,Low,Low,Chess,Sports,Vocational
+698,Low,High,Low,Reading,Sports,Commerce
+699,Medium,Medium,High,Chess,Music,Arts
+700,High,Low,Low,Sports,Sports,Commerce
+701,Medium,High,Medium,Painting,Robotics Club,Commerce
+702,Medium,Medium,Low,Writing,Science Quiz,Commerce
+703,Low,Low,Low,Reading,Sports,Vocational
+704,Medium,Medium,High,Coding,Robotics Club,Arts
+705,Low,Medium,Medium,Sports,None,Science
+706,Medium,Medium,Low,Chess,Drama,Commerce
+707,Low,High,Medium,Sports,Science Quiz,Commerce
+708,Low,Medium,High,Music,Robotics Club,Arts
+709,Medium,Low,Low,Reading,Debate,Commerce
+710,Low,Medium,High,Reading,Robotics Club,Arts
+711,Low,Low,Low,Painting,Debate,Arts
+712,High,High,Low,Sports,Robotics Club,Science
+713,Medium,Low,High,Reading,Drama,Arts
+714,Low,Medium,Medium,Sports,Robotics Club,Arts
+715,High,Medium,High,Coding,Drama,Science
+716,High,Medium,Medium,Sports,Athletics,Science
+717,High,Low,Low,Music,Athletics,Commerce
+718,High,Low,Medium,Coding,Drama,Commerce
+719,Medium,Low,Low,Writing,Robotics Club,Commerce
+720,High,High,Medium,Reading,Drama,Science
+721,Low,Low,Low,Sports,Debate,Science
+722,High,Medium,Low,Writing,Debate,Science
+723,High,Medium,High,Sports,Music,Science
+724,High,High,Medium,Designing,None,Science
+725,High,High,Low,Music,Music,Science
+726,High,Low,Low,Music,None,Commerce
+727,Low,Medium,High,Designing,Drama,Arts
+728,Low,Low,Medium,Reading,Drama,Arts
+729,Medium,High,High,Reading,Sports,Arts
+730,High,High,Low,Designing,Robotics Club,Science
+731,Low,Medium,Low,Music,Music,Vocational
+732,Low,High,Medium,Sports,Music,Vocational
+733,Low,Medium,High,Reading,None,Arts
+734,High,Low,Medium,Painting,Drama,Commerce
+735,Low,Medium,Low,Reading,None,Commerce
+736,High,Medium,Medium,Reading,Robotics Club,Science
+737,High,High,High,Painting,Sports,Science
+738,Medium,High,Low,Sports,None,Commerce
+739,Medium,Medium,Low,Music,Science Quiz,Commerce
+740,Low,Medium,High,Music,Sports,Arts
+741,Low,Low,Low,Chess,Debate,Arts
+742,Low,High,High,Coding,Sports,Arts
+743,Low,High,Medium,Sports,Music,Vocational
+744,High,High,Medium,Painting,Athletics,Science
+745,Medium,Medium,Low,Painting,Drama,Commerce
+746,Low,Medium,High,Coding,Music,Arts
+747,High,Low,Low,Writing,Sports,Commerce
+748,Medium,Medium,High,Music,Debate,Arts
+749,Medium,High,Low,Music,Sports,Commerce
+750,High,Low,Low,Sports,Athletics,Commerce
+751,High,Low,Medium,Music,Robotics Club,Commerce
+752,Low,Medium,Medium,Coding,Sports,Vocational
+753,High,High,Low,Writing,Sports,Science
+754,High,Medium,High,Painting,None,Science
+755,Low,Low,Low,Coding,Drama,Science
+756,Medium,Low,Low,Chess,Robotics Club,Commerce
+757,High,Low,Medium,Painting,Debate,Commerce
+758,Low,Medium,Medium,Painting,None,Vocational
+759,Low,Low,High,Sports,Drama,Arts
+760,Low,High,Low,Chess,Science Quiz,Vocational
+761,Low,Medium,Medium,Chess,Debate,Arts
+762,High,Medium,Medium,Reading,Drama,Science
+763,Medium,Low,High,Reading,Science Quiz,Arts
+764,High,High,High,Sports,Sports,Science
+765,Medium,High,High,Chess,None,Arts
+766,Medium,Low,Low,Designing,Athletics,Commerce
+767,Low,High,Medium,Reading,None,Vocational
+768,Low,High,High,Writing,Robotics Club,Arts
+769,Medium,Medium,Medium,Writing,Debate,Commerce
+770,Medium,High,Medium,Music,Robotics Club,Commerce
+771,Low,Medium,High,Painting,Music,Arts
+772,Medium,Medium,High,Chess,Athletics,Arts
+773,Medium,High,Medium,Designing,Sports,Commerce
+774,Low,Low,Low,Music,Sports,Commerce
+775,Medium,Low,High,Chess,Science Quiz,Arts
+776,Low,High,High,Writing,Debate,Arts
+777,Low,Medium,High,Painting,Science Quiz,Arts
+778,Medium,Low,High,Writing,Robotics Club,Arts
+779,Medium,High,Medium,Reading,Athletics,Commerce
+780,High,High,High,Reading,Music,Science
+781,High,Medium,Medium,Chess,Sports,Science
+782,High,Medium,High,Coding,Music,Science
+783,Medium,High,Low,Painting,Robotics Club,Commerce
+784,Medium,High,Medium,Designing,None,Commerce
+785,High,Medium,Medium,Painting,Athletics,Science
+786,Medium,High,Medium,Coding,Robotics Club,Commerce
+787,Medium,Medium,High,Writing,None,Arts
+788,Medium,Medium,High,Painting,None,Arts
+789,High,Medium,Low,Painting,Music,Science
+790,Low,Medium,High,Sports,Sports,Arts
+791,Low,High,Medium,Designing,Athletics,Science
+792,Low,Medium,Medium,Sports,Robotics Club,Arts
+793,High,High,High,Writing,Sports,Science
+794,Low,High,Low,Painting,Sports,Commerce
+795,High,High,High,Music,Athletics,Science
+796,Low,High,Low,Sports,Music,Commerce
+797,Low,Low,Medium,Writing,Sports,Arts
+798,Low,Low,High,Painting,Music,Arts
+799,High,Medium,High,Chess,None,Science
+800,Medium,Medium,High,Coding,Music,Arts
+801,Medium,Low,High,Chess,Music,Arts
+802,High,Medium,Low,Coding,Music,Science
+803,Low,High,High,Sports,Drama,Arts
+804,Medium,High,Low,Sports,Science Quiz,Commerce
+805,Low,Medium,Low,Designing,Science Quiz,Commerce
+806,Low,High,Low,Coding,Sports,Commerce
+807,Low,Low,High,Designing,Science Quiz,Arts
+808,High,High,Medium,Chess,Debate,Science
+809,High,Medium,Low,Music,Science Quiz,Science
+810,Low,Low,High,Designing,Drama,Arts
+811,Medium,High,Low,Reading,Robotics Club,Commerce
+812,Low,High,Low,Coding,Debate,Commerce
+813,Low,Medium,High,Writing,Robotics Club,Arts
+814,Low,Medium,Medium,Painting,Science Quiz,Commerce
+815,Low,High,Low,Designing,Debate,Science
+816,High,High,Low,Writing,Drama,Science
+817,Medium,Medium,High,Designing,Sports,Arts
+818,High,High,Medium,Writing,Robotics Club,Science
+819,Low,High,Medium,Painting,Science Quiz,Science
+820,High,High,Medium,Coding,Debate,Science
+821,Low,Low,Medium,Writing,Science Quiz,Commerce
+822,Low,Medium,High,Chess,Sports,Arts
+823,Medium,High,Low,Coding,Sports,Commerce
+824,Low,Medium,Medium,Writing,Debate,Vocational
+825,Low,Medium,Medium,Coding,Science Quiz,Science
+826,Medium,High,Low,Painting,Drama,Commerce
+827,Medium,Medium,Low,Coding,Drama,Commerce
+828,Low,Low,Medium,Designing,Robotics Club,Vocational
+829,Medium,Medium,High,Reading,Sports,Arts
+830,High,Medium,Low,Writing,Science Quiz,Science
+831,Medium,Medium,Medium,Sports,Robotics Club,Commerce
+832,Medium,High,High,Sports,Debate,Arts
+833,High,Medium,Medium,Chess,Music,Science
+834,High,Medium,Low,Writing,Debate,Science
+835,Low,Low,High,Designing,Music,Arts
+836,Medium,High,Low,Chess,Athletics,Commerce
+837,Low,High,Medium,Sports,Sports,Arts
+838,Medium,Low,Low,Music,Music,Commerce
+839,Low,Low,High,Sports,Science Quiz,Arts
+840,High,Low,High,Designing,Drama,Commerce
+841,High,Low,High,Chess,Drama,Commerce
+842,Medium,Low,High,Reading,Sports,Arts
+843,High,Low,Medium,Coding,Science Quiz,Commerce
+844,High,High,Medium,Chess,Sports,Science
+845,High,Medium,Medium,Music,None,Science
+846,High,High,High,Chess,Sports,Science
+847,Low,Low,Low,Writing,Science Quiz,Science
+848,Low,Medium,High,Chess,None,Arts
+849,High,High,Medium,Coding,Athletics,Science
+850,Low,High,High,Coding,Robotics Club,Arts
+851,High,High,Medium,Designing,Debate,Science
+852,Low,Medium,High,Music,Science Quiz,Arts
+853,Low,High,High,Writing,Athletics,Arts
+854,Medium,Low,High,Sports,Music,Arts
+855,Low,Medium,Medium,Chess,Robotics Club,Vocational
+856,Medium,Medium,Medium,Chess,Sports,Commerce
+857,Low,Medium,Medium,Designing,Athletics,Arts
+858,Medium,Low,High,Music,Sports,Arts
+859,Medium,Medium,Medium,Sports,Debate,Commerce
+860,Low,High,High,Music,Sports,Arts
+861,High,High,Medium,Reading,Drama,Science
+862,Low,High,Low,Music,Drama,Commerce
+863,Medium,Low,Low,Coding,Sports,Commerce
+864,Medium,High,Medium,Writing,None,Commerce
+865,High,Medium,Low,Designing,Music,Science
+866,Medium,High,High,Painting,Athletics,Arts
+867,Medium,Low,High,Painting,Robotics Club,Arts
+868,High,High,Medium,Chess,Athletics,Science
+869,High,Low,Low,Music,None,Commerce
+870,Medium,High,Low,Sports,Music,Commerce
+871,Medium,Low,High,Writing,Athletics,Arts
+872,High,Medium,Medium,Coding,Debate,Science
+873,Low,Medium,Low,Designing,Robotics Club,Vocational
+874,Low,Medium,High,Chess,Debate,Arts
+875,Low,Medium,Medium,Reading,Robotics Club,Arts
+876,High,Low,Low,Writing,Science Quiz,Commerce
+877,Medium,Low,Low,Painting,Science Quiz,Commerce
+878,Medium,Low,Medium,Painting,Drama,Commerce
+879,Medium,High,Low,Painting,Sports,Commerce
+880,High,Low,High,Writing,Music,Commerce
+881,High,High,Medium,Reading,Drama,Science
+882,High,Low,Low,Designing,None,Commerce
+883,Medium,Medium,High,Coding,Debate,Arts
+884,High,Low,High,Reading,Sports,Commerce
+885,Medium,Medium,Low,Coding,Science Quiz,Commerce
+886,Medium,High,High,Painting,Drama,Arts
+887,Medium,Medium,High,Reading,Sports,Arts
+888,High,High,Medium,Music,None,Science
+889,Medium,Medium,High,Writing,Science Quiz,Arts
+890,High,High,Medium,Chess,Science Quiz,Science
+891,Medium,Medium,High,Reading,Robotics Club,Arts
+892,Medium,High,Low,Designing,Debate,Commerce
+893,High,Medium,High,Reading,Robotics Club,Science
+894,Low,High,High,Writing,Debate,Arts
+895,Low,Low,Low,Coding,Athletics,Science
+896,High,Medium,Low,Reading,None,Science
+897,Low,Low,Medium,Coding,Sports,Science
+898,High,Medium,High,Writing,Drama,Science
+899,Low,High,High,Painting,Debate,Arts
+900,High,Low,Medium,Designing,Science Quiz,Commerce
+901,Low,Medium,Medium,Designing,Drama,Commerce
+902,High,High,High,Sports,Athletics,Science
+903,High,Low,High,Reading,Robotics Club,Commerce
+904,High,Medium,Medium,Coding,None,Science
+905,Medium,Medium,High,Painting,Robotics Club,Arts
+906,Low,Medium,High,Painting,Science Quiz,Arts
+907,High,Low,Medium,Writing,Drama,Commerce
+908,Medium,Medium,Low,Chess,Music,Commerce
+909,High,High,Medium,Designing,Athletics,Science
+910,Low,Low,Low,Designing,Robotics Club,Arts
+911,Medium,Low,Low,Sports,Athletics,Commerce
+912,Medium,Low,Medium,Coding,Science Quiz,Commerce
+913,Medium,Medium,Low,Painting,Athletics,Commerce
+914,High,Low,Low,Painting,Sports,Commerce
+915,Medium,Medium,High,Painting,Music,Arts
+916,High,Low,Medium,Sports,Debate,Commerce
+917,Medium,Medium,Medium,Reading,Drama,Commerce
+918,Medium,High,Low,Designing,Athletics,Commerce
+919,Low,Low,Medium,Coding,Sports,Commerce
+920,Medium,Low,High,Painting,Robotics Club,Arts
+921,Low,Medium,High,Sports,Athletics,Arts
+922,High,Medium,High,Writing,Music,Science
+923,Medium,High,Low,Designing,None,Commerce
+924,Medium,High,High,Painting,Music,Arts
+925,Medium,Medium,High,Music,Drama,Arts
+926,Medium,Medium,High,Coding,Debate,Arts
+927,Low,High,Medium,Music,Science Quiz,Commerce
+928,Medium,High,Medium,Writing,None,Commerce
+929,High,Medium,High,Writing,None,Science
+930,Medium,High,Medium,Reading,Drama,Commerce
+931,Medium,Low,Low,Chess,Sports,Commerce
+932,Medium,High,Low,Painting,Robotics Club,Commerce
+933,Low,Medium,Medium,Reading,Drama,Arts
+934,Low,Low,Low,Painting,Music,Arts
+935,Low,Medium,Medium,Chess,None,Science
+936,High,Medium,Low,Designing,None,Science
+937,Medium,Medium,High,Designing,None,Arts
+938,Low,High,Medium,Designing,Robotics Club,Science
+939,Low,High,High,Painting,Debate,Arts
+940,Medium,Low,High,Music,Robotics Club,Arts
+941,High,Medium,High,Chess,Robotics Club,Science
+942,Medium,Low,Low,Reading,Music,Commerce
+943,Low,Medium,Medium,Writing,Athletics,Science
+944,Low,High,Low,Sports,None,Arts
+945,High,High,High,Chess,Drama,Science
+946,High,Medium,Medium,Music,Athletics,Science
+947,Low,High,Medium,Reading,Sports,Vocational
+948,Medium,Medium,High,Designing,Music,Arts
+949,Low,Medium,Low,Reading,None,Commerce
+950,Low,High,High,Painting,Music,Arts
+951,High,High,Low,Painting,Sports,Science
+952,Medium,Low,High,Sports,None,Arts
+953,High,Low,Medium,Coding,Debate,Commerce
+954,Medium,Medium,Low,Coding,Debate,Commerce
+955,Medium,High,High,Music,Robotics Club,Arts
+956,Medium,Medium,Medium,Chess,None,Commerce
+957,Medium,Medium,Medium,Writing,Athletics,Commerce
+958,Low,Low,High,Painting,Sports,Arts
+959,Medium,Medium,High,Designing,Debate,Arts
+960,Medium,Medium,Low,Writing,Robotics Club,Commerce
+961,High,High,High,Sports,Robotics Club,Science
+962,High,Low,High,Sports,Debate,Arts
+963,High,Low,High,Music,Drama,Vocational
+964,High,Medium,Medium,Coding,Science Quiz,Science
+965,Low,Low,Medium,Sports,Debate,Arts
+966,Medium,Medium,High,Painting,Drama,Arts
+967,Medium,Medium,High,Chess,None,Arts
+968,Low,High,Medium,Reading,Music,Commerce
+969,High,Medium,Medium,Painting,Robotics Club,Science
+970,High,Medium,Low,Painting,Sports,Science
+971,Low,High,Low,Coding,Drama,Vocational
+972,High,High,High,Music,None,Science
+973,High,High,Low,Chess,Music,Science
+974,High,Low,Low,Writing,None,Commerce
+975,Medium,Low,High,Chess,Robotics Club,Arts
+976,Medium,Medium,High,Writing,Debate,Arts
+977,High,Medium,High,Sports,Science Quiz,Science
+978,Medium,High,High,Reading,Music,Arts
+979,High,Low,High,Chess,Music,Arts
+980,Medium,High,High,Chess,Debate,Arts
+981,High,Medium,Medium,Music,Athletics,Science
+982,Medium,Medium,Low,Designing,Athletics,Commerce
+983,Low,Medium,Low,Reading,Drama,Vocational
+984,Medium,Low,High,Coding,Robotics Club,Arts
+985,High,Medium,Low,Writing,Debate,Science
+986,High,Medium,High,Reading,Athletics,Science
+987,Low,High,Medium,Reading,Drama,Commerce
+988,Medium,High,Low,Designing,Sports,Commerce
+989,Low,Medium,High,Coding,None,Arts
+990,High,Medium,Medium,Painting,Robotics Club,Science
+991,High,Low,Medium,Designing,None,Commerce
+992,Low,Low,High,Painting,Debate,Arts
+993,Medium,High,Low,Painting,Drama,Commerce
+994,Low,High,High,Painting,Music,Arts
+995,High,Low,High,Chess,Drama,Arts
+996,High,High,Low,Reading,Robotics Club,Science
+997,Medium,High,Low,Chess,Athletics,Commerce
+998,Medium,High,High,Writing,Athletics,Arts
+999,High,Low,Low,Chess,Drama,Commerce
+1000,High,Medium,Medium,Painting,None,Science
