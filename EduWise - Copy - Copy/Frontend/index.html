@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>EduWise - Your Guide to Career Success</title>
+    <meta name="description" content="Discover the perfect career path after 10th or 12th grade with EduWise. Explore streams, courses, and opportunities with expert guidance." />
+    <meta name="author" content="EduWise" />
+
+    <meta property="og:title" content="EduWise - Your Guide to Career Success" />
+    <meta property="og:description" content="Discover the perfect career path after 10th or 12th grade with EduWise. Explore streams, courses, and opportunities with expert guidance." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://MayankMathur.dev/opengraph-image-p98pqg.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@ai_mentor" />
+    <meta name="twitter:image" content="https://MayankMathur.dev/opengraph-image-p98pqg.png" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- n8n Chatbot - Only on Streams & Courses page -->
+    <script type="module">
+      let chatInstance = null;
+      
+      async function loadChatbot() {
+        if (!chatInstance) {
+          const { createChat } = await import('https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js');
+          
+          // Load CSS dynamically
+          if (!document.querySelector('link[href*="@n8n/chat/dist/style.css"]')) {
+            const link = document.createElement('link');
+            link.href = 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css';
+            link.rel = 'stylesheet';
+            document.head.appendChild(link);
+          }
+          
+          chatInstance = createChat({
+            webhookUrl: 'https://mayankmathurrrr.app.n8n.cloud/webhook-test/aea80b6d-e9c7-4071-920a-38d714759ea8'
+          });
+        }
+      }
+      
+      function removeChatbot() {
+        // Remove all chat-related elements
+        const chatElements = document.querySelectorAll('[data-chat], .n8n-chat, [class*="chat"]');
+        chatElements.forEach(el => {
+          if (el.closest('#root') === null) {
+            el.remove();
+          }
+        });
+        chatInstance = null;
+      }
+
+      function handlePageChange() {
+        const currentPath = window.location.pathname;
+        
+        // Remove chatbot first
+        removeChatbot();
+        
+        // Only load if on streams-courses page
+        if (currentPath === '/streams-courses') {
+          setTimeout(loadChatbot, 500);
+        }
+      }
+
+      // Initialize on page load
+      handlePageChange();
+
+      // Listen for route changes
+      let currentLocation = location.pathname;
+      setInterval(() => {
+        if (location.pathname !== currentLocation) {
+          currentLocation = location.pathname;
+          handlePageChange();
+        }
+      }, 200);
+    </script>
+  </body>
+</html>
